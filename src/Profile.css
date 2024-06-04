@@ -1,0 +1,49 @@
+.container {
+  background: hsl(0, 0%, 12%);
+  width: fit-content;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 30%;
+  height: 30%;
+}
+
+.location {
+  color: hsl(75, 94%, 57%);
+  font-weight: 700;
+  margin-top: 0;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.links a {
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+  background: hsl(0, 0%, 20%);
+  padding: 12px;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.links a:hover {
+  color: hsl(0, 0%, 8%);
+  background: hsl(75, 94%, 57%);
+  font-weight: 600;
+}
+
+.name {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.desc {
+  margin: 25px 0;
+}
