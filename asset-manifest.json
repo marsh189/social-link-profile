@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/social-link-profile/static/css/main.34ca45a9.css",
+    "main.js": "/social-link-profile/static/js/main.2a88c7ea.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/social-link-profile/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
+    "index.html": "/social-link-profile/index.html",
+    "main.34ca45a9.css.map": "/social-link-profile/static/css/main.34ca45a9.css.map",
+    "main.2a88c7ea.js.map": "/social-link-profile/static/js/main.2a88c7ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ca45a9.css",
+    "static/js/main.2a88c7ea.js"
+  ]
+}
